@@ -1,8 +1,8 @@
 const poke = {}
 
-const regionURL = `http://pokeapi.co/api/v2/region/`
-const pokeURL = `http://pokeapi.co/api/v2/pokemon-species/`
-const pokeSpritesURL = `http://pokeapi.co/api/v2/pokemon/`
+const regionURL = `https://pokeapi.co/api/v2/region/`
+const pokeURL = `https://pokeapi.co/api/v2/pokemon-species/`
+const pokeSpritesURL = `https://pokeapi.co/api/v2/pokemon/`
 
 
 //Pokémon Species AJAX Call --> 
